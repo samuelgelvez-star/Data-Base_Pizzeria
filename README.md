@@ -64,7 +64,7 @@ El proyecto incluye un conjunto de consultas orientadas al análisis de la infor
 19. Porcentaje de ventas provenientes de productos no elaborados.
 20. Día de la semana con mayor número de pedidos para recoger.
 
-Los resultados de las consultas se veran reflejados en en el archivo Consultas.sql subido al repositorio con los demas archivos.
+# Los resultados de las consultas se veran reflejados en en el archivo Consultas.sql subido al repositorio con los demas archivos.
 
 ## Explicación de las Consultas
 
